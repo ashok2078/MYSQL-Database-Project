@@ -1,11 +1,11 @@
 # MySQL Database Backup Project
 
-Yeh ek automated bash script hai jo MySQL database ka daily backup leti hai.
+This is an automated bash script that takes daily backups of MySQL databases.
 
 ## Features:
-* **Automated Backup:** `mysqldump` ka use karke daily backup generate karti hai.
-* **Auto-rotation:** 7 din se purane backup files ko apne aap delete kar deti hai taaki disk space bachi rahe.
-* **Cron Job Ready:** Ise Linux Crontab ke sath schedule kiya ja sakta hai.
+* **Automated Backup:** `Daily backups are generated using mysqldump.
+* **Auto-rotation:** Automatically deletes backup files older than 7 days to save disk space.
+* **Cron Job Ready:** This can be scheduled with the Linux crontab.
 
 ## How to use:
 1. Script ko permission dein: `chmod +x daily_backup.sh`
