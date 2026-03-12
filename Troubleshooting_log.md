@@ -8,7 +8,7 @@ Steps Performed:
 
     Restarted MySQL in safe mode with --skip-grant-tables.
 
-    Reset password using: ALTER USER 'root'@'localhost' IDENTIFIED BY 'Vision@#1978';
+    Reset password using: ALTER USER 'root'@'localhost' IDENTIFIED BY 'password';
 
     Removed override and restored normal service operation.
 
