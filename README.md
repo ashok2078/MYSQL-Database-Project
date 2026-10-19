@@ -1,5 +1,7 @@
 MySQL Database Project 
 Hands-on MySQL/MariaDB database administration — backup automation, troubleshooting, and DB management on Linux.
+<img width="2862" height="1212" alt="image" src="https://github.com/user-attachments/assets/570393fb-f08f-4231-a8df-a3a0cc6ea0e8" />
+
 Tech Stack
 MySQL `MariaDB` Bash Scripting` `Linux (RHEL/CentOS)` Files
 File	
